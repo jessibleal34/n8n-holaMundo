@@ -155,7 +155,7 @@ Agregar las siguientes capturas:
 - Ejecución exitosa
 - Resultado del nodo Set
 <p>
-  <img src="img/errorConnectividad.png.png" width="700">
+  <img src="img/errorConnectividad.png" width="700">
 </p>
 
 ---

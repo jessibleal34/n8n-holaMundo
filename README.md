@@ -154,7 +154,7 @@ Agregar las siguientes capturas:
 - Workflow creado
 - Ejecución exitosa
 - Resultado del nodo Set
-<p align="center">
+<p>
   <img src="img/errorConnectividad.png.png" width="700">
 </p>
 

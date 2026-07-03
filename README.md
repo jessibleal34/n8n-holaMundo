@@ -156,9 +156,18 @@ Agregar las siguientes capturas:
 - Resultado del nodo Set
 <p>
   <img src="img/errorConnectividad.png" width="700">
+
+</p>
+<p align="center">
+  <img src="img/instalarNode.png" width="700">
 </p>
 
----
+<p align="center">
+  <img src="img/volverAintalar.png" width="700">
+</p>
+<p align="center">
+  <img src="img/n8nFuncionando.png" width="700">
+</p>
 
 # Explicación de los nodos
 
